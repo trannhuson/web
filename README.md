@@ -1,5 +1,5 @@
 # SE03-Group02
-## Tên đề tai : Ứng dụng web bán đồ điện tử
+## Tên đề tài : Ứng dụng web bán đồ điện tử
 ### 1.Goals and Objective
 #### 1.1. Objective : 
 * Nâng cao khả năng làm việc nhóm
@@ -13,6 +13,7 @@
 * wampserver
 #### 2.2. Công nghệ
 * Laravel php
+### 3. Hướng dẫn sử dụng và cài đặt
 
 
 
