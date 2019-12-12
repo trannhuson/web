@@ -1,0 +1,10 @@
+def plotnoise(img, mode, r, c, i):
+    plt.subplot(r,c,i)
+    if mode is not None:
+        gimg = skimage.util.random_noise(img, mode=mode)
+        dst = plt.imshow(gimg)
+    else:
+        dst = plt.imshow(img)
+
+    plt.title(mode)
+    plt.axis("off")
